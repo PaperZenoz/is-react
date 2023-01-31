@@ -1,0 +1,59 @@
+@import "~bootstrap/scss/bootstrap"
+
+html
+  overflow-x: hidden
+  margin-right: calc(-1 * (100vw - 100%))
+
+
+
+body
+  background: url("movie.jpg") fixed
+  font-family: 'Roboto', sans-serif
+
+  color: #343a40
+
+img
+  width: 100%
+
+h1
+  color: white
+
+.app
+  background: rgba(52, 58, 64, 0.8)
+  padding: 20px
+  border-radius: 4px
+  min-height: 500px
+
+.card-wrap
+  width: 30%
+  margin-bottom: 30px
+  cursor: pointer
+  min-height: 340px
+
+.card-body
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+
+.preloader
+  width: 100px
+
+.preloaderWrap
+  text-align: center
+  margin-top: 30px
+
+.card__ancor
+  text-decoration: underline
+  color: #007bff
+  cursor: pointer
+
+@media screen and (max-width: 992px)
+  .card-wrap
+    width: calc(50% - 15px)
+
+@media screen and (max-width: 768px)
+  .card-wrap
+    width: 100%
+
+
+
