@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PaperZenoz/is-react/static/css/main.c85ae587.chunk.css",
+    "main.js": "/PaperZenoz/is-react/static/js/main.5664689d.chunk.js",
+    "main.js.map": "/PaperZenoz/is-react/static/js/main.5664689d.chunk.js.map",
+    "runtime-main.js": "/PaperZenoz/is-react/static/js/runtime-main.865c5ae9.js",
+    "runtime-main.js.map": "/PaperZenoz/is-react/static/js/runtime-main.865c5ae9.js.map",
+    "static/js/2.5d6ea55f.chunk.js": "/PaperZenoz/is-react/static/js/2.5d6ea55f.chunk.js",
+    "static/js/2.5d6ea55f.chunk.js.map": "/PaperZenoz/is-react/static/js/2.5d6ea55f.chunk.js.map",
+    "index.html": "/PaperZenoz/is-react/index.html",
+    "precache-manifest.760dc4684de85b90348b145fd5626258.js": "/PaperZenoz/is-react/precache-manifest.760dc4684de85b90348b145fd5626258.js",
+    "service-worker.js": "/PaperZenoz/is-react/service-worker.js",
+    "static/css/main.c85ae587.chunk.css.map": "/PaperZenoz/is-react/static/css/main.c85ae587.chunk.css.map",
+    "static/js/2.5d6ea55f.chunk.js.LICENSE.txt": "/PaperZenoz/is-react/static/js/2.5d6ea55f.chunk.js.LICENSE.txt",
+    "static/media/cardImg.jpg": "/PaperZenoz/is-react/static/media/cardImg.86001298.jpg",
+    "static/media/index.sass": "/PaperZenoz/is-react/static/media/movie.0070c6eb.jpg",
+    "static/media/preloader.svg": "/PaperZenoz/is-react/static/media/preloader.89647c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.865c5ae9.js",
+    "static/js/2.5d6ea55f.chunk.js",
+    "static/css/main.c85ae587.chunk.css",
+    "static/js/main.5664689d.chunk.js"
+  ]
+}
